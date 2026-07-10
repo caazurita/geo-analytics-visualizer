@@ -1,0 +1,9 @@
+streamlit>=1.28
+keplergl>=0.3
+streamlit-keplergl>=0.3
+pandas>=2.0
+geopandas>=0.14
+shapely>=2.0
+plotly>=5.18
+geopy>=2.4
+numpy>=1.24
