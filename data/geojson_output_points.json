@@ -1,0 +1,252 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8778,
+                    14.0601
+                ]
+            },
+            "properties": {
+                "id": "be8360da35fb4d3eba9b632fe4a35b15",
+                "frequency": 73,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "be8360da35fb4d3eba9b632fe4a35b15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.992,
+                    14.0912
+                ]
+            },
+            "properties": {
+                "id": "99f59bdd25fb81431e8eac4d237b1275",
+                "frequency": 24,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "99f59bdd25fb81431e8eac4d237b1275"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5203,
+                    14.6132
+                ]
+            },
+            "properties": {
+                "id": "257e003ecf72b2298cbb7d85a6ba8cd0",
+                "frequency": 11,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "257e003ecf72b2298cbb7d85a6ba8cd0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4913,
+                    14.0174
+                ]
+            },
+            "properties": {
+                "id": "1f1555848adbb5fa8d9d6bc953130ba3",
+                "frequency": 9,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "1f1555848adbb5fa8d9d6bc953130ba3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.513,
+                    14.6235
+                ]
+            },
+            "properties": {
+                "id": "63bc161d408ffd0763e0888aaf3ea04e",
+                "frequency": 6,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "63bc161d408ffd0763e0888aaf3ea04e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5485,
+                    14.6403
+                ]
+            },
+            "properties": {
+                "id": "dbbd58254abe012c4ae68dd693f6a990",
+                "frequency": 5,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "dbbd58254abe012c4ae68dd693f6a990"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9238,
+                    14.1545
+                ]
+            },
+            "properties": {
+                "id": "390594555ab05ccd0ee08768539a43a5",
+                "frequency": 4,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "390594555ab05ccd0ee08768539a43a5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5142,
+                    14.6228
+                ]
+            },
+            "properties": {
+                "id": "c25b8aea4c687d9232404fcdf08fe23d",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "c25b8aea4c687d9232404fcdf08fe23d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5951,
+                    14.5259
+                ]
+            },
+            "properties": {
+                "id": "f44ff92d067f62f64d9c0d80f300dcd8",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "f44ff92d067f62f64d9c0d80f300dcd8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5951,
+                    14.5256
+                ]
+            },
+            "properties": {
+                "id": "f33971a17ee6f5a68bcd951211f57780",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "f33971a17ee6f5a68bcd951211f57780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4837,
+                    14.6598
+                ]
+            },
+            "properties": {
+                "id": "2480842c747b88da4aae17026841b5fe",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "2480842c747b88da4aae17026841b5fe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5204,
+                    14.6055
+                ]
+            },
+            "properties": {
+                "id": "4fca1e61950eeaa78d4aed69c88c6064",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "4fca1e61950eeaa78d4aed69c88c6064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5644,
+                    14.5846
+                ]
+            },
+            "properties": {
+                "id": "2913f0af2adda3519e38f1fb8ef62650",
+                "frequency": 1,
+                "transportUnit": [],
+                "types": [],
+                "averageTravelTimeInMin": null,
+                "lastUpdated": "2025-05-05T00:59:22.411Z",
+                "color_category": "2913f0af2adda3519e38f1fb8ef62650"
+            }
+        }
+    ]
+}
